@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-CVPR-bound :airplane:! Our work on real-time raw-to-raw video denoising has been accepted to CVPR 2026. More details soon!
+CVPR-bound! Our work on real-time raw-to-raw video denoising has been accepted to CVPR 2026. :airplane:
